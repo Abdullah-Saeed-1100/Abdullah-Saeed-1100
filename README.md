@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdullah Saeed Bagar.<br>💼 I’m a developer specializing in Flutter, web development, and UI/UX design.<br>👀 I’m passionate about creating intuitive and user-friendly interfaces.<br>🌱 I’m currently expanding my skills in advanced Flutter techniques.<br>💞️ I’m looking to collaborate on exciting mobile app projects.<br>⚡ Fun fact: I love blending creativity with code to craft beautiful digital experiences!
+👋 Hi, I’m Abdullah Saeed Bagar.<br>💼 I’m a mobile applicatons developer by Flutter framework, and UI/UX design.<br>👀 I’m passionate about creating intuitive and user-friendly interfaces.<br>🌱 I’m currently expanding my skills in advanced Flutter techniques.<br>💞️ I’m looking to collaborate on exciting mobile app projects.<br>⚡ Fun fact: I love blending creativity with code to craft beautiful digital experiences!
 
 
 ## 🌐 Socials:
